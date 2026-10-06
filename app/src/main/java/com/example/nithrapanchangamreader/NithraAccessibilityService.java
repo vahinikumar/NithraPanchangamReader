@@ -1,4 +1,4 @@
-﻿package com.example.nithrapanchangamreader;
+package com.example.nithrapanchangamreader;
 
 import android.accessibilityservice.AccessibilityService;
 import android.view.accessibility.AccessibilityEvent;
