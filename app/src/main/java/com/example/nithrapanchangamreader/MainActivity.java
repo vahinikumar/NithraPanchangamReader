@@ -1,4 +1,4 @@
-﻿package com.example.nithrapanchangamreader;
+package com.example.nithrapanchangamreader;
 
 import android.app.Activity;
 import android.os.Bundle;
