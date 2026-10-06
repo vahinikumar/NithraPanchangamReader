@@ -2,9 +2,4 @@
 <resources>
     <string name="app_name">Nithra Panchangam Reader</string>
     <string name="accessibility_description">Reads Panchangam information from Nithra Telugu Calendar</string>
-
-    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
-        <item name="android:fontFamily">sans</item>
-        <item name="android:windowActionModeOverlay">true</item>
-    </style>
 </resources>
